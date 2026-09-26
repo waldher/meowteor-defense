@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "cat": {
+    "model": null,
+    "height": 1.8,
+    "clips": {
+      "idle": "Idle",
+      "swat": "Swat",
+      "celebrate": "Celebrate",
+      "upgrade": "Mrow"
+    }
+  },
+  "planet": { "texture": "/assets/textures/earth.jpg" },
+  "asteroids": {
+    "rock": null,
+    "iron": null,
+    "splitter": null,
+    "comet": null,
+    "boss": null
+  },
+  "audio": {
+    "levelComplete": {
+      "url": "/assets/audio/level-complete.wav",
+      "volume": 0.65
+    },
+    "upgrade": { "url": "/assets/audio/upgrade-mrow.wav", "volume": 0.6 }
+  },
+  "upgradeIcons": { "power": null, "chain": null, "charge": null, "heal": null }
+}
